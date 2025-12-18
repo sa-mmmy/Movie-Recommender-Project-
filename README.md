@@ -76,13 +76,16 @@ pip install -r requirements.txt
 
 
 # Lancer le projet :
-
+```sql
 python recommender.py
+
+```
 
 
 # (Optionnel – Interface Streamlit)
-
+```sql
 streamlit run app.py
+```
 
 Objectifs du projet
 
